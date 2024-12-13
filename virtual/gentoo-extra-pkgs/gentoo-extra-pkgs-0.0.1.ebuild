@@ -1,10 +1,10 @@
-# Copyright (c) 2022 Jema Innovations Limited and the openJema Authors.
+# Copyright (c) 2022 Jema Technology .
 # Distributed under the license specified in the root directory of this project.
 
-EAPI="5"
+EAPI=7
 
 DESCRIPTION="empty project"
-HOMEPAGE="http://jemakey.com"
+HOMEPAGE="http://os.com"
 
 LICENSE="BSD-Google"
 SLOT="0"
